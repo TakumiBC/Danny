@@ -1,5 +1,4 @@
-# Annie
-简体中文 | [English](https://github.com/thomaswcy/Annie/blob/main/README_EN.md)
+<h1 align="center">Annie</h1>
 
 <p align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
