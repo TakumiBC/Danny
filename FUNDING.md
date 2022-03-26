@@ -17,9 +17,7 @@
 http://afdian.net/@thomaswcy/plan/
 
 ## 微信收款码
-[Placeholder]
-暂无
+![微信收款码](https://github.com/thomaswcy/Annie/blob/main/img/wechat.jpg?raw=true)
 
 ## 支付宝收款码
-[Placeholder]
-暂无
+![支付宝收款码](https://github.com/thomaswcy/Annie/blob/main/img/alipay.jpg?raw=true)
