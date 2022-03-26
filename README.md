@@ -26,6 +26,15 @@
 
 2) 双击 `install.bat`，等待 `cmd` 窗口中出现 `[已退出进程，代码为 9009]` 或类似字样，即可关闭cmd窗口，进行下一步操作
 
+### 3. 配置Path
+
+1）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\ffmpeg`，点击「确定」。
+
+2）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\lux`，点击「确定」。
+
+3）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\yt-dlp`，点击「确定」。
+
+
 ### 3. 连接浏览器
 
 1）安装浏览器拓展 Openwith。（ [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/open-with/) / [Chrome](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno) / [新版Edge](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno)）
@@ -35,8 +44,9 @@
 3）打开 OpenWith 的「扩展设置页面」，点击下载 open_with_windows.py，并把它移到 步骤 2 获得的目录中去。
 
 4）在 cmd 命令提示符里输入下面这行代码：
+
 ```
-open_with_windows.py install
+python open_with_windows.py install
 ```
 
 5）回到浏览器，点击「测试安装」
