@@ -1,6 +1,14 @@
 # Annie
 简体中文 | [English](https://github.com/thomaswcy/Annie/blob/main/README_EN.md)
 
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg">
+<p>
+<p align="center">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/thomaswcy/Annie/total?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Annie?style=for-the-badge">
+<p>
+
 ## 介绍
 由于Windows电脑用户需要大量配置才能获得MacOS平台上Downie视频解析软件类似的体验，他的替代者Annie开始开发。
 
