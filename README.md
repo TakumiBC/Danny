@@ -9,6 +9,7 @@
 <p>
 
 ## 介绍
+
 由于Windows电脑用户需要大量配置才能获得MacOS平台上Downie视频解析软件类似的体验，他的替代者Annie开始开发。
 
 ## 如何下载和配置Annie
@@ -49,4 +50,14 @@ open_with_windows.py install
 至此，您可以像使用 Mac 平台上的 Downie 一样地下载视频了。
 
 ## 使用方法
+
 在 下载和配置Annie 后，在需要下载视频的网页右键，调出右键菜单，选择 国内视频下载 或者 国外视频下载 即可。
+
+## 技术支持 & 讨论群组
+ 
+请前往我们的[Telegram讨论群](https://t.me/RubikWrtChat/)，和大家一起沟通，并加入我们官方的[Telegram频道](https://t.me/RubikWrt/)，以获取最新动态。
+
+如果遇到bug，各种软件使用方面问题，以及对我们的建议，欢迎在[Issues](https://github.com/thomaswcy/Annie/issues)区域留言 
+ 
+## 捐赠
+请查看我们有关 [捐赠本项目](https://github.com/thomaswcy/Annie/blob/main/FUNDING.md) 的文档
