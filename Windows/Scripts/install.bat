@@ -18,10 +18,12 @@ echo "正在安装程序中..."
 cd \.
 mkdir AnnieDownloader
 cd AnnieDownloader
-curl -L --max-redirs -1  --output update.bat https://ghproxy.com/https://github.com/thomaswcy/Annie/releases/latest/download/update.bat
+curl -L --max-redirs -1  --output update.bat https://ghproxy.com/https://raw.githubusercontent.com/thomaswcy/Annie/main/Windows/Scripts/update.bat
 mkdir ffmpeg
 cd ffmpeg
 curl -L --max-redirs -1  --output ffmpeg.exe https://ghproxy.com/https://github.com/thomaswcy/Annie-Packages/releases/download/ffmpeg/ffmpeg.exe
+curl -L --max-redirs -1  --output ffmpeg.exe https://ghproxy.com/https://github.com/thomaswcy/Annie-Packages/releases/download/ffmpeg/ffplay.exe
+curl -L --max-redirs -1  --output ffmpeg.exe https://ghproxy.com/https://github.com/thomaswcy/Annie-Packages/releases/download/ffmpeg/ffprobe.exe
 cd ../
 mkdir lux
 cd lux
