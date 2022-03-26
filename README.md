@@ -22,7 +22,7 @@
 
 ### 2. 安装 [Annie](https://github.com/thomaswcy/Annie/)
 
-1) 下载 [install.bat](https://ghprozy.com/https://github.com/thomaswcy/Annie/releases/download/0.1.0/install.bat)
+1) 下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Annie/releases/download/0.1.0/install.bat)
 
 2) 双击 `install.bat`，等待 `cmd` 窗口中出现 `[已退出进程，代码为 9009]` 或类似字样，即可关闭cmd窗口，进行下一步操作
 
