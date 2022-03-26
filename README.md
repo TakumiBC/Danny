@@ -27,7 +27,7 @@
 
 ### 3. 连接浏览器
 
-1）安装浏览器拓展 Openwith。（ [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/open-with/) / [Chrome](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno) / / [新版Edge](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno)）
+1）安装浏览器拓展 Openwith。（ [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/open-with/) / [Chrome](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno) / [新版Edge](https://chrome.google.com/webstore/detail/open-with/cogjlncmljjnjpbgppagklanlcbchlno)）
 
 2）在键盘上按 `Windows 键 + R 键` ，输入 cmd 回车，在弹出的窗口里查看当前目录，比如我的是 C:\Users\thomaswcy。
 
