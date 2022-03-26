@@ -2,7 +2,7 @@
 简体中文 | [English](https://github.com/thomaswcy/Annie/blob/main/README_EN.md)
 
 ## 介绍
-由于Windows电脑用户需要大量配置才能获得MacOS平台上Downie视频解析软件类似的体验，Annie软件开始开发。
+由于Windows电脑用户需要大量配置才能获得MacOS平台上Downie视频解析软件类似的体验，他的替代者Annie开始开发。
 
 ## 如何下载和配置Annie
 
