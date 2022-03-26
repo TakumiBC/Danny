@@ -1,12 +1,17 @@
 ## CONTRIBUTED (Sorted by A-Z)
-- ffmpeg
+
+### ffmpeg
+
 https://github.com/ffmpeg/ffmpeg
 
-- lux
+### lux
+
 https://github.com/iawia002/lux
 
-- RunningCheese's Blog
+### RunningCheese's Blog
+
 https://www.runningcheese.com/lux
 
-- yt-dlp
+### yt-dlp
+
 https://gihtub.com/yt-dlp/yt-dlp
