@@ -28,12 +28,13 @@
 
 ### 3. 配置Path
 
-1）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\ffmpeg`，点击「确定」。
+1）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\ffmpeg`
 
-2）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\lux`，点击「确定」。
+2）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\lux`
+ 
+3）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\yt-dlp`
 
-3）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\yt-dlp`，点击「确定」。
-
+4) 点击「确定」
 
 ### 3. 连接浏览器
 
