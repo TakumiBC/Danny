@@ -1,16 +1,16 @@
-<h1 align="center">Annie</h1>
+<h1 align="center">Danny</h1>
 
 <p align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 <p>
 <p align="center">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/thomaswcy/Annie/total?style=for-the-badge">
-<img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Annie?style=for-the-badge">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/thomaswcy/Danny/total?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Danny?style=for-the-badge">
 <p>
 
 ## 介绍
 
-由于Windows电脑用户需要大量配置才能获得MacOS平台上Downie视频解析软件类似的体验，他的替代者Annie开始开发。
+由于Windows电脑用户需要大量配置才能获得 Mac OS 平台上 Downie 视频解析软件类似的体验，他的替代者 Danny 开始开发。
 
 ## 如何下载和配置Annie
 
@@ -20,9 +20,9 @@
 
 2) 记得在安装向导中勾选`Add Python x.x to PATH`
 
-### 2. 安装 [Annie](https://github.com/thomaswcy/Annie/)
+### 2. 安装 [Annie](https://github.com/thomaswcy/Danny/)
 
-1) 下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Annie/releases/download/0.1.0/install.bat)
+1) 下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/download/0.1.0/install.bat)
 
 2) 双击 `install.bat`，等待 `cmd` 窗口中出现 `[已退出进程，代码为 9009]` 或类似字样，即可关闭cmd窗口，进行下一步操作
 
@@ -68,7 +68,7 @@ python open_with_windows.py install
  
 请前往我们的 [Telegram讨论群](https://t.me/RubikWrtChat/)，和大家一起沟通，并加入我们官方的 [Telegram频道](https://t.me/RubikWrt/)，以获取最新动态。
 
-如果遇到bug，各种软件使用方面问题，以及对我们的建议，欢迎在 [Issues](https://github.com/thomaswcy/Annie/issues) 区域留言 
+如果遇到bug，各种软件使用方面问题，以及对我们的建议，欢迎在 [Issues](https://github.com/thomaswcy/Danny/issues) 区域留言 
  
 ## 捐赠
-请查看我们有关 [捐赠本项目](https://github.com/thomaswcy/Annie/blob/main/FUNDING.md) 的文档
+请查看我们有关 [捐赠本项目](https://github.com/thomaswcy/Danny/blob/main/FUNDING.md) 的文档
