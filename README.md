@@ -22,9 +22,9 @@
 
 ### 2. 安装 [Annie](https://github.com/thomaswcy/Danny/)
 
-1) 下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/download/0.1.0/install.bat)
+1）下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/download/0.1.0/install.bat)
 
-2) 双击 `install.bat`，等待 `cmd` 窗口中出现 `[已退出进程，代码为 9009]` 或类似字样，即可关闭cmd窗口，进行下一步操作
+2）双击 `install.bat`，等待 `cmd` 窗口中出现 `[已退出进程，代码为 9009]` 或类似字样，即可关闭cmd窗口，进行下一步操作
 
 ### 3. 配置Path
 
@@ -34,7 +34,7 @@
  
 3）按下 `Windows` 键，输入`高级系统设置`回车，点击右下角的「环境变量」，选择「Path」，点击「新建」，输入 `C:\AnnieDownloader\yt-dlp`
 
-4) 点击「确定」
+4）点击「确定」
 
 ### 3. 连接浏览器
 
@@ -52,11 +52,11 @@ python open_with_windows.py install
 
 5）回到浏览器，点击「测试安装」
  
-6) 在步骤 2 获得的目录后面，加上\Downloads，比如我的就是 C:\Users\thomaswcy\Downloads，保存好
+6） 在步骤 2 获得的目录后面，加上\Downloads，比如我的就是 C:\Users\thomaswcy\Downloads，保存好
 
-7) 先点击「新增浏览器」一次，在「名称」和「指令」栏分别输入`国内视频下载`和`"C:\AnnieDownloader\lux\lux.exe" -o "替换这里" -f 80-7`，将 替换这里 替换为第6步获取到的路径，点击「添加」。
+7） 先点击「新增浏览器」一次，在「名称」和「指令」栏分别输入`国内视频下载`和`"C:\AnnieDownloader\lux\lux.exe" -o "替换这里" -f 80-7`，将 替换这里 替换为第6步获取到的路径，点击「添加」。
 
-8) 再点击「新增浏览器」一次，在「名称」和「指令」栏分别输入`国外视频下载`和`"C:\AnnieDownloader\yt-dlp\yt-dlp.exe" -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "替换这里\%(title)s.%(ext)s" --merge-output-format mp4` ，将 替换这里 替换为第6步获取到的路径，点击「添加」。
+8）再点击「新增浏览器」一次，在「名称」和「指令」栏分别输入`国外视频下载`和`"C:\AnnieDownloader\yt-dlp\yt-dlp.exe" -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "替换这里\%(title)s.%(ext)s" --merge-output-format mp4` ，将 替换这里 替换为第6步获取到的路径，点击「添加」。
 
 至此，您可以像使用 Mac 平台上的 Downie 一样地下载视频了。
 
