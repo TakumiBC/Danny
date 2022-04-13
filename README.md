@@ -10,7 +10,7 @@
 
 ## 介绍
 
-由于Windows电脑用户需要大量配置才能获得 Mac OS 平台上 Downie 视频解析软件类似的体验，他的替代者 Danny 开始开发。
+由于Windows 和 Linux 电脑用户需要大量配置才能获得 MacOS 平台上 Downie 视频解析软件类似的体验，他的替代者 Danny 开始开发。
 
 ## 如何下载和配置 Danny
 
