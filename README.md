@@ -20,7 +20,7 @@
 
 2) 记得在安装向导中勾选`Add Python x.x to PATH`
 
-### 2. 安装 [Annie](https://github.com/thomaswcy/Danny/)
+### 2. 安装 [Danny](https://github.com/thomaswcy/Danny/)
 
 1）下载 [install.bat](https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/download/0.1.0/install.bat)
 
