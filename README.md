@@ -62,7 +62,7 @@ python open_with_windows.py install
  
 ## Linux 一键脚本
 ```
-sh -c "$(wget -O- https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/latest/download/install.sh)"
+sh -c "$(wget -O- https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/download/0.1.0/install.sh)"
 ```
 
 ## 使用方法
