@@ -12,7 +12,7 @@
 
 由于Windows 和 Linux 电脑用户需要大量配置才能获得 MacOS 平台上 Downie 视频解析软件类似的体验，他的替代者 Danny 开始开发。
 
-## 如何下载和配置 Danny
+## 如何下载和配置 Danny (Windows)
 
 ### 1. 安装 [Python](https://www.python.org/downloads/windows/) 
 
@@ -59,6 +59,11 @@ python open_with_windows.py install
 8）再点击「新增浏览器」一次，在「名称」和「指令」栏分别输入`国外视频下载`和`"C:\AnnieDownloader\yt-dlp\yt-dlp.exe" -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "替换这里\%(title)s.%(ext)s" --merge-output-format mp4` ，将 替换这里 替换为第6步获取到的路径，点击「添加」。
 
 至此，您可以像使用 Mac 平台上的 Downie 一样地下载视频了。
+ 
+## Linux 一键脚本
+```
+sh -c "$(wget -O- https://ghproxy.com/https://github.com/thomaswcy/Danny/releases/latest/download/install.sh)"
+```
 
 ## 使用方法
 
