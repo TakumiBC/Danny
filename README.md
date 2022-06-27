@@ -8,7 +8,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/thomaswcy/Danny?style=for-the-badge">
 <p>
 
-## [DISGARDED]
+## [DISCARDED]
 Now: https://github.com/thomaswcy/Anika
 
 ## 技术支持 & 讨论群组
